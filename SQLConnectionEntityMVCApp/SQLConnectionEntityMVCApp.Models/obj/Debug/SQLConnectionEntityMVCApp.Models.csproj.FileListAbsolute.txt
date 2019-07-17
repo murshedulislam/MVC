@@ -1,0 +1,6 @@
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\bin\Debug\SQLConnectionEntityMVCApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\bin\Debug\SQLConnectionEntityMVCApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\obj\Debug\SQLConnectionEntityMVCApp.Models.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\obj\Debug\SQLConnectionEntityMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\obj\Debug\SQLConnectionEntityMVCApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.Models\obj\Debug\SQLConnectionEntityMVCApp.Models.pdb

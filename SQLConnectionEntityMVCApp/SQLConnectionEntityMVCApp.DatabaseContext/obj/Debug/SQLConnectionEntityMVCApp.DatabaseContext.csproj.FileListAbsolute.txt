@@ -1,0 +1,14 @@
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\SQLConnectionEntityMVCApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\SQLConnectionEntityMVCApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\obj\Debug\SQLConnectionEntityMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\obj\Debug\SQLConnectionEntityMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\obj\Debug\SQLConnectionEntityMVCApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\obj\Debug\SQLConnectionEntityMVCApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\SQLConnectionEntityMVCApp.DatabaseContext.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\SQLConnectionEntityMVCApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\SQLConnectionEntityMVCApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SQLConnectionEntityMVCApp\SQLConnectionEntityMVCApp.DatabaseContext\obj\Debug\SQLConnectionEntityMVCApp.DatabaseContext.csproj.CopyComplete
