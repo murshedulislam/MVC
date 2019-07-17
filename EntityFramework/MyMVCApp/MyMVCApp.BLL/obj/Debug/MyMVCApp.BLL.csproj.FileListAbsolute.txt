@@ -1,0 +1,29 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll.config
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb

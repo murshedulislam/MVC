@@ -1,0 +1,9 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\bin\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\bin\Debug\MyMVCApp.Repository.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\obj\Debug\MyMVCApp.Repository.csprojAssemblyReference.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\obj\Debug\MyMVCApp.Repository.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\obj\Debug\MyMVCApp.Repository.csproj.CopyComplete
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\obj\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Repository\obj\Debug\MyMVCApp.Repository.pdb
