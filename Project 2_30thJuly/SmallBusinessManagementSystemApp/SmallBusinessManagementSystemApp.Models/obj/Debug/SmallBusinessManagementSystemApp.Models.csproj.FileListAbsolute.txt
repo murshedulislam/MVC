@@ -1,0 +1,18 @@
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csprojAssemblyReference.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csproj.CoreCompileInputs.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.Models\obj\Debug\SmallBusinessManagementSystemApp.Models.pdb

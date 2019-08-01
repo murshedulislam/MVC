@@ -1,0 +1,249 @@
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.AppContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Console.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CopyComplete
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.rsp
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.rsp
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.AppContext.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Console.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Compression.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.AccessControl.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Claims.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.ValueTuple.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.rsp
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csprojAssemblyReference.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CoreCompileInputs.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CopyComplete
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csc.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\csi.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.AppContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Console.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\vbc.rsp
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.BLL.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Razor.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Helpers.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\System.Web.Mvc.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.Repository.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\bin\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.csproj.CopyComplete
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp\obj\Debug\SmallBusinessManagementSystemApp.pdb

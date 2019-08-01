@@ -1,0 +1,51 @@
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CopyComplete
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.xml
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csprojAssemblyReference.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CoreCompileInputs.cache
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CopyComplete
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.dll
+E:\251079\Project 2\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.BLL.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Models.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.Repository.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.pdb
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\SmallBusinessManagementSystemApp.DatabaseContext.dll.config
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.csproj.CopyComplete
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.dll
+C:\Users\Murshedul Islam\Documents\My App\MVC\Project 2_30thJuly\SmallBusinessManagementSystemApp\SmallBusinessManagementSystemApp.BLL\obj\Debug\SmallBusinessManagementSystemApp.BLL.pdb
